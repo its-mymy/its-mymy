@@ -46,15 +46,6 @@ Desenvolvendo...
 - Eneagrama
 - Comunidades
 - Tecnologia
----
-
-## 📈 Visitantes
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=38BDF8&style=flat-square"/>
-</p>
-
----
 
 ---
 
