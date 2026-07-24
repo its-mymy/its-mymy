@@ -1,7 +1,7 @@
 <h1 align="center">👋 Eu sou a Yasmym</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="80">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="120">
 </p>
 ---
 
